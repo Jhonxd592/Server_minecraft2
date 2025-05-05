@@ -1625,3 +1625,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05May2025 02:40:10.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Ambush]
 [05May2025 02:43:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Not Today, Thank You]
 [05May2025 02:45:25.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Magic Writing]
+[05May2025 02:48:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Not Today, Thank You]
+[05May2025 02:54:45.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=-40, z=-103} BlockPos{x=-241, y=-41, z=-103}
+[05May2025 02:55:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Diamonds!]
