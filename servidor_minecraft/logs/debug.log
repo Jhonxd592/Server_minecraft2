@@ -12584,3 +12584,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05May2025 05:03:43.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Ominous Onodrim]
 [05May2025 05:07:26.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 05:07:26.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:12:26.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:12:26.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:16:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Bone Crusher]
+[05May2025 05:17:26.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:17:26.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:21:16.435] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[05May2025 05:21:17.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:obsidian_monstrosity
+[05May2025 05:22:26.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:22:26.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:23:15.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_coloon_ruin
+[05May2025 05:27:26.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:27:26.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:32:26.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:32:26.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:35:09.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:redstone_cave
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=239, z=-723}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=238, z=-723}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-217, y=239, z=-730}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-217, y=238, z=-730}
+[05May2025 05:35:10.030] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=239, z=-729}
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=238, z=-730}
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=241, z=-724}
+[05May2025 05:36:54.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 lost connection: Disconnected
+[05May2025 05:36:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 left the game
+[05May2025 05:37:26.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:37:26.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

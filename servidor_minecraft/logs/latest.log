@@ -8574,3 +8574,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05May2025 05:01:18.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
 [05May2025 05:01:36.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
 [05May2025 05:03:43.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Ominous Onodrim]
+[05May2025 05:16:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Bone Crusher]
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=239, z=-723}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=238, z=-723}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-217, y=239, z=-730}
+[05May2025 05:35:10.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-217, y=238, z=-730}
+[05May2025 05:35:10.030] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=239, z=-729}
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=238, z=-730}
+[05May2025 05:35:10.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=241, z=-724}
+[05May2025 05:36:54.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 lost connection: Disconnected
+[05May2025 05:36:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 left the game
