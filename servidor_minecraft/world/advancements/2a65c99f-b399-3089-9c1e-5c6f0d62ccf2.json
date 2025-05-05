@@ -451,6 +451,7 @@
       "mutton": "2025-05-05 03:13:00 +0000",
       "bread": "2025-05-05 02:15:47 +0000",
       "rotten_flesh": "2025-05-05 02:28:33 +0000",
+      "glow_berries": "2025-05-05 03:51:43 +0000",
       "salmon": "2025-05-05 02:27:33 +0000",
       "cod": "2025-05-05 02:27:37 +0000"
     },
@@ -897,8 +898,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-05 02:43:32 +0000",
+      "minecraft:spider": "2025-05-05 04:00:55 +0000",
       "minecraft:creeper": "2025-05-05 02:58:57 +0000",
       "minecraft:witch": "2025-05-05 03:19:40 +0000",
+      "minecraft:cave_spider": "2025-05-05 03:53:40 +0000",
       "minecraft:zombie": "2025-05-05 02:56:47 +0000",
       "minecraft:drowned": "2025-05-05 02:24:54 +0000"
     },
@@ -1720,57 +1723,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-05-05 03:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-05-05 03:12:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_bioshroom_from_tall_blue_bioshroom": {
-    "criteria": {
-      "has_tall_blue_bioshroom": "2025-05-05 03:14:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-05-05 03:14:31 +0000"
     },
     "done": true
   },
@@ -1780,51 +1735,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-05 03:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-05 03:12:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-05-05 03:17:42 +0000"
     },
     "done": true
   },
@@ -1834,57 +1747,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/polished_chalk": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-05 03:29:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
-      "has_spider_eye": "2025-05-05 03:21:46 +0000"
+      "has_diorite": "2025-05-05 03:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_mutton": "2025-05-05 03:12:56 +0000"
+      "has_stone": "2025-05-05 03:10:01 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
+      "has_diorite": "2025-05-05 03:10:01 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
+      "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-05 03:10:01 +0000"
     },
     "done": true
   },
@@ -1908,60 +1809,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-05-05 03:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_slab": {
-    "criteria": {
-      "has_chalk": "2025-05-05 03:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-05-05 03:14:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-05-05 03:12:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
-    "criteria": {
-      "has_pink_lupine": "2025-05-05 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
-    "criteria": {
-      "has_purple_lupine": "2025-05-05 03:12:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-05-05 03:36:42 +0000",
@@ -1982,39 +1829,81 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-05 03:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-05 03:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-05 03:12:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-05-05 03:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-05 03:12:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_diorite": "2025-05-05 03:10:01 +0000"
+      "has_mutton": "2025-05-05 03:12:56 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_ingredient": "2025-05-05 03:22:05 +0000"
+      "has_mutton": "2025-05-05 03:12:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "has_leather": "2025-05-05 03:38:07 +0000"
+      "has_mutton": "2025-05-05 03:12:56 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "regions_unexplored:recipes/misc/blue_bioshroom_from_tall_blue_bioshroom": {
     "criteria": {
-      "axolotl_bucket": "2025-05-05 03:43:17 +0000"
+      "has_tall_blue_bioshroom": "2025-05-05 03:14:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
-      "has_bamboo": "2025-05-05 03:30:35 +0000"
+      "has_mushroom": "2025-05-05 03:14:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-05 03:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 03:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 03:17:42 +0000"
     },
     "done": true
   },
@@ -2024,39 +1913,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_diorite": "2025-05-05 03:10:01 +0000"
+      "has_spider_eye": "2025-05-05 03:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_bamboo": "2025-05-05 03:30:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-05-05 03:30:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-05-05 03:10:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-05 03:38:07 +0000"
+      "has_ingredient": "2025-05-05 03:22:05 +0000"
     },
     "done": true
   },
@@ -2066,15 +1931,309 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-05 03:29:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-05-05 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/chalk_stairs": {
     "criteria": {
       "has_chalk": "2025-05-05 03:30:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-05 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 03:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 03:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 03:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-05 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 03:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 03:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-05 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 03:57:07 +0000"
     },
     "done": true
   },
