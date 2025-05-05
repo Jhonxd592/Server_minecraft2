@@ -63,11 +63,13 @@
     "criteria": {
       "minecraft:birch_forest": "2025-05-05 02:58:30 +0000",
       "minecraft:beach": "2025-05-05 02:11:14 +0000",
+      "minecraft:stony_peaks": "2025-05-05 03:30:50 +0000",
       "minecraft:river": "2025-05-05 02:24:40 +0000",
       "minecraft:stony_shore": "2025-05-05 02:10:11 +0000",
       "minecraft:grove": "2025-05-05 02:52:15 +0000",
       "minecraft:jagged_peaks": "2025-05-05 02:19:03 +0000",
       "minecraft:forest": "2025-05-05 02:07:44 +0000",
+      "minecraft:lush_caves": "2025-05-05 03:41:16 +0000",
       "minecraft:ocean": "2025-05-05 02:11:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-05 03:11:12 +0000",
       "minecraft:deep_dark": "2025-05-05 02:41:45 +0000",
@@ -1718,15 +1720,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-05-05 03:12:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-05 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
     },
     "done": true
   },
@@ -1760,15 +1786,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-05-05 03:12:55 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
     },
     "done": true
   },
@@ -1781,6 +1831,30 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-05 03:29:24 +0000"
     },
     "done": true
   },
@@ -1802,10 +1876,34 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-05-05 03:36:42 +0000",
+      "pine_taiga": "2025-05-05 03:29:58 +0000",
       "willow_forest": "2025-05-05 03:13:06 +0000",
       "blackwood_taiga": "2025-05-05 03:14:26 +0000",
+      "rocky_meadow": "2025-05-05 03:34:51 +0000",
+      "flower_fields": "2025-05-05 03:37:08 +0000",
+      "magnolia_highlands": "2025-05-05 03:31:32 +0000",
+      "deciduous_forest": "2025-05-05 03:30:54 +0000",
+      "chalk_cliffs": "2025-05-05 03:30:13 +0000",
+      "bamboo_forest": "2025-05-05 03:30:36 +0000",
+      "temperate_grove": "2025-05-05 03:38:26 +0000",
+      "pine_slopes": "2025-05-05 03:26:55 +0000",
+      "grassland": "2025-05-05 03:30:31 +0000",
+      "redwoods": "2025-05-05 03:30:26 +0000",
       "lupine_plains": "2025-05-05 03:11:15 +0000"
     },
     "done": false
@@ -1819,6 +1917,18 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
     },
     "done": true
   },
@@ -1840,6 +1950,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-05-05 03:29:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
     "criteria": {
       "has_purple_lupine": "2025-05-05 03:12:55 +0000"
@@ -1848,8 +1964,20 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-05-05 03:36:42 +0000",
+      "pine_taiga": "2025-05-05 03:29:58 +0000",
       "willow_forest": "2025-05-05 03:13:06 +0000",
       "blackwood_taiga": "2025-05-05 03:14:26 +0000",
+      "rocky_meadow": "2025-05-05 03:34:51 +0000",
+      "flower_fields": "2025-05-05 03:37:08 +0000",
+      "magnolia_highlands": "2025-05-05 03:31:32 +0000",
+      "deciduous_forest": "2025-05-05 03:30:54 +0000",
+      "chalk_cliffs": "2025-05-05 03:30:13 +0000",
+      "bamboo_forest": "2025-05-05 03:30:36 +0000",
+      "temperate_grove": "2025-05-05 03:38:26 +0000",
+      "pine_slopes": "2025-05-05 03:26:55 +0000",
+      "grassland": "2025-05-05 03:30:31 +0000",
+      "redwoods": "2025-05-05 03:30:26 +0000",
       "lupine_plains": "2025-05-05 03:11:15 +0000"
     },
     "done": false
@@ -1872,6 +2000,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-05 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-05 03:17:42 +0000"
@@ -1884,9 +2030,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-05 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:30:35 +0000"
     },
     "done": true
   },
@@ -1896,9 +2054,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-05 03:38:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-05 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-05-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-05 03:38:07 +0000"
     },
     "done": true
   },

@@ -487,7 +487,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-05 03:25:59 +0000",
       "minecraft:skeleton": "2025-05-05 01:58:46 +0000",
+      "minecraft:ravager": "2025-05-05 03:23:46 +0000",
       "minecraft:spider": "2025-05-05 02:02:41 +0000",
       "minecraft:creeper": "2025-05-05 02:02:29 +0000",
       "minecraft:husk": "2025-05-05 02:18:16 +0000",
@@ -534,6 +536,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-05 03:32:51 +0000",
       "cooked_mutton": "2025-05-05 02:21:07 +0000",
       "cooked_beef": "2025-05-05 02:39:50 +0000",
       "apple": "2025-05-05 02:01:31 +0000",
@@ -593,6 +596,7 @@
     "criteria": {
       "shrubland": "2025-05-05 03:01:46 +0000",
       "pine_taiga": "2025-05-05 02:21:29 +0000",
+      "prismachasm": "2025-05-05 03:27:47 +0000",
       "redstone_caves": "2025-05-05 02:41:37 +0000",
       "scorching_caves": "2025-05-05 02:47:50 +0000",
       "blackwood_taiga": "2025-05-05 02:22:41 +0000",
@@ -1480,6 +1484,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-05-05 02:41:37 +0000",
+      "prismachasm": "2025-05-05 03:27:47 +0000",
       "scorching_caves": "2025-05-05 02:47:50 +0000"
     },
     "done": false
@@ -1988,6 +1993,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-05 03:07:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2025-05-05 03:11:04 +0000"
@@ -2003,12 +2014,6 @@
   "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
     "criteria": {
       "has_magnolia_planks": "2025-05-05 03:11:04 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-05 03:07:48 +0000"
     },
     "done": true
   },
@@ -2045,6 +2050,126 @@
   "regions_unexplored:recipes/building_blocks/magnolia_slab": {
     "criteria": {
       "has_magnolia_planks": "2025-05-05 03:11:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-05-05 03:28:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-05-05 03:28:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+    "criteria": {
+      "has_cave_hyssop": "2025-05-05 03:28:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-05-05 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-05-05 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-05 03:33:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-05-05 03:39:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-05-05 03:42:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-05-05 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-05 03:38:35 +0000"
     },
     "done": true
   },
