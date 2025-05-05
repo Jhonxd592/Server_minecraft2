@@ -1972,3 +1972,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05May2025 04:06:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [Chain Death]
 [05May2025 04:06:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Underzealot
 [05May2025 04:06:19.299] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[05May2025 04:11:21.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Tactical Fishing]
+[05May2025 04:16:25.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05May2025 04:16:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Vesper
+[05May2025 04:16:46.130] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[05May2025 04:21:20.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.3519287357535177
+[05May2025 04:21:20.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.7272103580492058
+[05May2025 04:21:20.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 1.0
+[05May2025 04:21:20.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 1.0
+[05May2025 04:26:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Chattering Teeth]
+[05May2025 04:28:46.560] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[05May2025 04:28:48.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
