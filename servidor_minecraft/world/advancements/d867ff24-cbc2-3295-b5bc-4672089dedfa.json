@@ -533,6 +533,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-05 02:21:07 +0000",
+      "cooked_beef": "2025-05-05 02:39:50 +0000",
       "apple": "2025-05-05 02:01:31 +0000",
       "bread": "2025-05-05 02:26:20 +0000"
     },
@@ -583,6 +584,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-05 02:12:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-05-05 02:38:10 +0000"
     },
     "done": true
   },
@@ -700,9 +707,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 02:35:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-05-05 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-05-05 02:39:07 +0000"
     },
     "done": true
   },
@@ -721,6 +740,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
     },
     "done": true
   },
@@ -757,6 +782,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-05 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 02:38:10 +0000"
     },
     "done": true
   },
@@ -814,6 +845,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 02:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-05 02:18:22 +0000"
@@ -823,6 +860,12 @@
   "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
       "has_logs": "2025-05-05 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-05 02:41:38 +0000"
     },
     "done": true
   },
@@ -922,6 +965,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-05 02:26:32 +0000"
@@ -958,6 +1007,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-05 02:21:21 +0000"
@@ -982,6 +1037,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-05-05 02:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 02:22:01 +0000"
@@ -991,6 +1052,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
     },
     "done": true
   },
@@ -1042,6 +1109,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 02:22:01 +0000"
@@ -1054,11 +1127,29 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-05-05 02:41:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-05 02:21:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 02:35:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-05-05 02:41:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
@@ -1087,7 +1178,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2025-05-05 02:21:29 +0000",
+      "redstone_caves": "2025-05-05 02:41:37 +0000",
       "blackwood_taiga": "2025-05-05 02:22:41 +0000",
+      "rocky_meadow": "2025-05-05 02:33:10 +0000",
       "highland_fields": "2025-05-05 02:30:34 +0000",
       "magnolia_highlands": "2025-05-05 02:31:19 +0000",
       "bamboo_forest": "2025-05-05 02:32:47 +0000",
@@ -1116,6 +1209,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-05 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-05 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
     },
     "done": true
   },
@@ -1159,6 +1264,7 @@
     "criteria": {
       "pine_taiga": "2025-05-05 02:21:29 +0000",
       "blackwood_taiga": "2025-05-05 02:22:41 +0000",
+      "rocky_meadow": "2025-05-05 02:33:10 +0000",
       "highland_fields": "2025-05-05 02:30:34 +0000",
       "magnolia_highlands": "2025-05-05 02:31:19 +0000",
       "bamboo_forest": "2025-05-05 02:32:47 +0000",
@@ -1166,9 +1272,21 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-05 02:29:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
     },
     "done": true
   },
@@ -1181,6 +1299,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 02:35:09 +0000"
     },
     "done": true
   },
@@ -1232,9 +1362,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:39:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2025-05-05 02:30:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:39:30 +0000"
     },
     "done": true
   },
@@ -1250,12 +1398,25 @@
     },
     "done": false
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 02:39:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-05-05 02:31:30 +0000",
+      "mauve_log": "2025-05-05 02:38:10 +0000",
       "pine_log": "2025-05-05 02:30:00 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2025-05-05 02:38:39 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
