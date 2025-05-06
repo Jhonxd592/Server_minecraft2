@@ -607,6 +607,7 @@
       "bamboo_forest": "2025-05-05 02:32:47 +0000",
       "temperate_grove": "2025-05-05 03:01:39 +0000",
       "grassland": "2025-05-05 03:00:36 +0000",
+      "bioshroom_caves": "2025-05-06 03:45:29 +0000",
       "lupine_plains": "2025-05-05 02:17:20 +0000"
     },
     "done": false
@@ -1485,7 +1486,8 @@
     "criteria": {
       "redstone_caves": "2025-05-05 02:41:37 +0000",
       "prismachasm": "2025-05-05 03:27:47 +0000",
-      "scorching_caves": "2025-05-05 02:47:50 +0000"
+      "scorching_caves": "2025-05-05 02:47:50 +0000",
+      "bioshroom_caves": "2025-05-06 03:45:29 +0000"
     },
     "done": false
   },
@@ -2362,6 +2364,24 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-06 03:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-06 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-06 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-06 03:54:53 +0000"
     },
     "done": true
   },
