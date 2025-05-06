@@ -1799,10 +1799,12 @@
     "criteria": {
       "mauve_hills": "2025-05-05 03:36:42 +0000",
       "pine_taiga": "2025-05-05 03:29:58 +0000",
+      "muddy_river": "2025-05-06 03:28:14 +0000",
       "willow_forest": "2025-05-05 03:13:06 +0000",
       "blackwood_taiga": "2025-05-05 03:14:26 +0000",
       "rocky_meadow": "2025-05-05 03:34:51 +0000",
       "flower_fields": "2025-05-05 03:37:08 +0000",
+      "maple_forest": "2025-05-06 03:30:37 +0000",
       "magnolia_highlands": "2025-05-05 03:31:32 +0000",
       "deciduous_forest": "2025-05-05 03:30:54 +0000",
       "boreal_forest": "2025-05-05 05:33:16 +0000",
@@ -1811,7 +1813,9 @@
       "temperate_grove": "2025-05-05 03:38:26 +0000",
       "pine_slopes": "2025-05-05 03:26:55 +0000",
       "grassland": "2025-05-05 03:30:31 +0000",
+      "gravel_beach": "2025-05-06 03:28:51 +0000",
       "redwoods": "2025-05-05 03:30:26 +0000",
+      "golden_boreal_taiga": "2025-05-06 03:28:21 +0000",
       "lupine_plains": "2025-05-05 03:11:15 +0000"
     },
     "done": false
@@ -1820,10 +1824,12 @@
     "criteria": {
       "mauve_hills": "2025-05-05 03:36:42 +0000",
       "pine_taiga": "2025-05-05 03:29:58 +0000",
+      "muddy_river": "2025-05-06 03:28:14 +0000",
       "willow_forest": "2025-05-05 03:13:06 +0000",
       "blackwood_taiga": "2025-05-05 03:14:26 +0000",
       "rocky_meadow": "2025-05-05 03:34:51 +0000",
       "flower_fields": "2025-05-05 03:37:08 +0000",
+      "maple_forest": "2025-05-06 03:30:37 +0000",
       "magnolia_highlands": "2025-05-05 03:31:32 +0000",
       "deciduous_forest": "2025-05-05 03:30:54 +0000",
       "boreal_forest": "2025-05-05 05:33:16 +0000",
@@ -1832,7 +1838,9 @@
       "temperate_grove": "2025-05-05 03:38:26 +0000",
       "pine_slopes": "2025-05-05 03:26:55 +0000",
       "grassland": "2025-05-05 03:30:31 +0000",
+      "gravel_beach": "2025-05-06 03:28:51 +0000",
       "redwoods": "2025-05-05 03:30:26 +0000",
+      "golden_boreal_taiga": "2025-05-06 03:28:21 +0000",
       "lupine_plains": "2025-05-05 03:11:15 +0000"
     },
     "done": false
@@ -2472,6 +2480,18 @@
       "coded_trigger": "2025-05-05 05:16:24 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-06 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-06 03:31:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

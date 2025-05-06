@@ -2977,3 +2977,191 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06May2025 03:23:59.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06May2025 03:23:59.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06May2025 03:28:01.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06May2025 03:28:28.716] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/jungle_ruins/town_center_01
+[06May2025 03:28:33.097] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06May2025 03:28:35.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:redstone_golems
+[06May2025 03:28:35.977] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:structureplaycer2
+[06May2025 03:28:35.978] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:structures
+[06May2025 03:28:40.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:blue_crystal
+[06May2025 03:28:40.320] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:char_stone_slab
+[06May2025 03:28:40.323] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:crystals_minesfaft_locate
+[06May2025 03:28:40.325] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_lamp
+[06May2025 03:28:40.326] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_pillar
+[06May2025 03:28:40.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_shield
+[06May2025 03:28:40.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_pumpkin
+[06May2025 03:28:40.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:golem_ruin2
+[06May2025 03:28:40.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:golem_ruin3
+[06May2025 03:28:40.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:golem_ruin
+[06May2025 03:28:40.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:lava
+[06May2025 03:28:40.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:librain_home
+[06May2025 03:28:40.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_structures
+[06May2025 03:28:40.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:stronghold_spawner
+[06May2025 03:28:41.833] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:librain_locate
+[06May2025 03:28:41.836] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:creeper_camp
+[06May2025 03:28:41.837] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:creeper_market
+[06May2025 03:28:41.839] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:creeper_pik2
+[06May2025 03:28:41.839] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:creeper_pik1
+[06May2025 03:28:41.840] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:creeper_head
+[06May2025 03:28:41.840] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:plant_leaves_creeperwoods
+[06May2025 03:28:44.307] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:archillager_locate
+[06May2025 03:28:44.963] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:endersent_locate
+[06May2025 03:28:54.940] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:corrupted_cauldron
+[06May2025 03:28:54.944] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:swamp_brazier_big
+[06May2025 03:28:54.944] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:soggy_brazier_coloon
+[06May2025 03:28:54.945] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:swamp_house
+[06May2025 03:28:54.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:swamp_house_long
+[06May2025 03:28:54.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:soggy_pick
+[06May2025 03:28:54.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:soggy_tree
+[06May2025 03:28:59.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:28:59.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:28:59.496] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:brown_coral
+[06May2025 03:29:00.225] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[06May2025 03:29:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Hot Stuff]
+[06May2025 03:29:11.137] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[06May2025 03:29:11.971] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/4818, l='ServerLevel[world]', x=-3107.50, y=51.00, z=-1238.50] as it would cause deadlock
+[06May2025 03:29:16.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/cactivillage/town_center_01
+[06May2025 03:29:16.219] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/highland/town_center_01
+[06May2025 03:29:16.225] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/pumpkinvillage/town_center_01
+[06May2025 03:29:16.230] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/snowfortress/town_center_01
+[06May2025 03:29:16.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/swampvillage/town_center_01
+[06May2025 03:29:16.240] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/plains/town_center_01
+[06May2025 03:29:16.246] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:towns/village_creeperforest/town_center_01
+[06May2025 03:29:16.888] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[06May2025 03:29:33.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:arch_underground_mase3
+[06May2025 03:29:33.529] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=106, z=279}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=104, z=253}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-236, y=107, z=270}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=107, z=270}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=107, z=267}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=105, z=267}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=107, z=278}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=99, z=263}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=98, z=260}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=99, z=259}
+[06May2025 03:29:33.533] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=99, z=272}
+[06May2025 03:29:37.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:fiery_coloon_ruin
+[06May2025 03:29:49.241] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:redstone_monstrosity_boss
+[06May2025 03:30:18.556] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[06May2025 03:30:18.567] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[06May2025 03:30:18.578] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[06May2025 03:30:18.593] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[06May2025 03:30:18.608] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[06May2025 03:30:18.622] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[06May2025 03:30:18.630] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[06May2025 03:30:18.633] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[06May2025 03:30:18.638] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[06May2025 03:30:18.640] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[06May2025 03:30:18.644] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[06May2025 03:30:18.648] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[06May2025 03:30:18.652] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[06May2025 03:30:18.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[06May2025 03:30:18.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[06May2025 03:30:18.659] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[06May2025 03:30:18.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[06May2025 03:30:18.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[06May2025 03:30:18.661] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[06May2025 03:30:18.661] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[06May2025 03:30:18.662] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[06May2025 03:30:18.662] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[06May2025 03:30:30.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[06May2025 03:30:33.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:mineshaft_burn
+[06May2025 03:30:36.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:old_boss_monstrosity
+[06May2025 03:31:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [The Parrots and the Bats]
+[06May2025 03:32:44.915] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_0
+[06May2025 03:32:48.813] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_3
+[06May2025 03:32:48.920] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_2
+[06May2025 03:32:50.776] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_2
+[06May2025 03:32:52.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_1
+[06May2025 03:32:52.586] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_0
+[06May2025 03:32:52.780] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_3
+[06May2025 03:32:54.713] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_5
+[06May2025 03:33:56.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[06May2025 03:33:56.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[06May2025 03:33:56.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[06May2025 03:33:56.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[06May2025 03:33:56.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[06May2025 03:33:56.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[06May2025 03:33:56.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[06May2025 03:33:56.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[06May2025 03:33:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[06May2025 03:33:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[06May2025 03:33:56.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[06May2025 03:33:56.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[06May2025 03:33:56.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[06May2025 03:33:56.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[06May2025 03:33:56.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[06May2025 03:33:56.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[06May2025 03:33:56.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[06May2025 03:33:56.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[06May2025 03:33:56.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[06May2025 03:33:56.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[06May2025 03:33:56.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[06May2025 03:33:56.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[06May2025 03:33:56.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[06May2025 03:33:56.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[06May2025 03:33:56.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[06May2025 03:33:56.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[06May2025 03:33:57.959] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=-30, z=47}
+[06May2025 03:33:57.962] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3195, y=-23, z=23}
+[06May2025 03:33:57.962] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=-23, z=24}
+[06May2025 03:33:57.963] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3195, y=-23, z=18}
+[06May2025 03:33:58.069] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=-30, z=60}
+[06May2025 03:33:58.069] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=-30, z=47}
+[06May2025 03:33:59.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:33:59.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:34:01.549] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=-23, z=1}
+[06May2025 03:34:01.549] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3177, y=-23, z=0}
+[06May2025 03:34:01.550] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3169, y=-23, z=0}
+[06May2025 03:34:01.550] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3160, y=-23, z=6}
+[06May2025 03:34:01.551] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-23, z=15}
+[06May2025 03:34:01.567] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3169, y=-23, z=0}
+[06May2025 03:34:01.598] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3177, y=-23, z=0}
+[06May2025 03:34:01.599] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3160, y=-23, z=6}
+[06May2025 03:34:01.599] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3195, y=-23, z=23}
+[06May2025 03:34:09.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:22.146] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_1
+[06May2025 03:36:43.598] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:windcaller_locate
+[06May2025 03:36:43.601] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:golden_barley
+[06May2025 03:36:43.607] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:tempest_golem
+[06May2025 03:36:43.613] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_camp2
+[06May2025 03:36:43.614] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_camp
+[06May2025 03:36:43.615] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_coolon
+[06May2025 03:36:43.615] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_coolon_long
+[06May2025 03:36:43.620] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_coolon_loot
+[06May2025 03:36:43.622] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:highland_home
+[06May2025 03:36:43.633] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:pillager_post
+[06May2025 03:36:43.635] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:tower_spawner
+[06May2025 03:36:43.636] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of duneons:wind_leaves_tree
+[06May2025 03:36:43.647] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3190, y=-30, z=53}
+[06May2025 03:36:43.648] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=-44, z=72}
+[06May2025 03:36:43.649] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-17, z=76}
+[06May2025 03:36:43.650] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3193, y=-23, z=64}
+[06May2025 03:36:43.650] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3192, y=-23, z=61}
+[06May2025 03:36:43.666] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=-30, z=60}
+[06May2025 03:36:43.666] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=-30, z=48}
+[06May2025 03:36:43.666] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-17, z=58}
+[06May2025 03:36:43.667] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3190, y=-30, z=53}
+[06May2025 03:36:43.668] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3210, y=-23, z=63}
+[06May2025 03:36:43.668] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3192, y=-23, z=61}
+[06May2025 03:37:39.383] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[06May2025 03:37:39.386] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[06May2025 03:37:39.388] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06May2025 03:37:39.389] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[06May2025 03:37:39.389] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06May2025 03:37:39.390] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[06May2025 03:37:39.391] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[06May2025 03:37:39.392] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[06May2025 03:37:39.393] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[06May2025 03:37:39.393] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[06May2025 03:37:39.394] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[06May2025 03:37:39.395] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[06May2025 03:37:39.396] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[06May2025 03:37:39.397] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[06May2025 03:37:39.397] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[06May2025 03:37:39.398] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[06May2025 03:37:39.399] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[06May2025 03:37:39.400] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[06May2025 03:37:39.400] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall

@@ -151,3 +151,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06May2025 03:20:23.333] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Horse['Horse'/1258, l='ServerLevel[world]', x=-3081.89, y=64.00, z=-763.86] as it would cause deadlock
 [06May2025 03:22:52.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.29.203.18:37847] logged in with entity id 1842 at (-3521.300000011921, 28.0, -81.69999998807907)
 [06May2025 03:22:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
+[06May2025 03:29:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Hot Stuff]
+[06May2025 03:29:11.971] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/4818, l='ServerLevel[world]', x=-3107.50, y=51.00, z=-1238.50] as it would cause deadlock
+[06May2025 03:29:33.529] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=106, z=279}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=104, z=253}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-236, y=107, z=270}
+[06May2025 03:29:33.530] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=107, z=270}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=107, z=267}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=105, z=267}
+[06May2025 03:29:33.531] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-225, y=107, z=278}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=99, z=263}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=98, z=260}
+[06May2025 03:29:33.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=99, z=259}
+[06May2025 03:29:33.533] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=99, z=272}
+[06May2025 03:31:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [The Parrots and the Bats]
+[06May2025 03:34:09.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:34:09.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 01Kevin10) moved wrongly! 0.640869140625
+[06May2025 03:37:39.388] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06May2025 03:37:39.389] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
