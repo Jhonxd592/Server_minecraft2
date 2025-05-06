@@ -326,3 +326,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06May2025 04:05:48.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
 [06May2025 04:05:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
 [06May2025 04:06:38.306] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4956d338[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:57107) lost connection: Disconnected
+[06May2025 04:09:15.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7020ee82[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:45517) lost connection: Disconnected
+[06May2025 04:09:52.754] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c84d46c[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:46279) lost connection: Disconnected
+[06May2025 04:10:12.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d132d88[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:44301) lost connection: Disconnected
+[06May2025 04:10:53.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 lost connection: Disconnected
+[06May2025 04:10:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 left the game
+[06May2025 04:10:54.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34462f9e[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:32991) lost connection: Disconnected
