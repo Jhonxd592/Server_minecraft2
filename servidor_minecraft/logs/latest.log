@@ -321,3 +321,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06May2025 03:56:41.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
 [06May2025 03:57:07.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.29.203.18:49025] logged in with entity id 20066 at (-3738.794796621569, 29.0, 72.56311534782188)
 [06May2025 03:57:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
+[06May2025 03:59:45.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Just a Flesh Wound]
+[06May2025 04:01:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> zzzz
+[06May2025 04:05:48.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[06May2025 04:05:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
+[06May2025 04:06:38.306] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4956d338[id=<null>,name=Jhonxd592,properties={},legacy=false] (/127.29.203.18:57107) lost connection: Disconnected

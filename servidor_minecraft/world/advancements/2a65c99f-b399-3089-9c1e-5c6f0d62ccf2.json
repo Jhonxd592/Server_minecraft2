@@ -2485,6 +2485,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-05-06 04:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-06 03:31:43 +0000"
@@ -2497,6 +2503,12 @@
       "prismachasm": "2025-05-06 03:38:47 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-05-06 04:01:34 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
