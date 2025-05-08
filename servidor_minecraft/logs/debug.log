@@ -9372,3 +9372,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 05:48:31.849] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
 [08May2025 05:48:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [This Must be a Sign!]
 [08May2025 05:51:06.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[08May2025 05:52:39.599] [Worker-Main-17/DEBUG] [ModernFix/]: Structure woodlands:features/trees/redwoods/redwood_s_1 is being run through DFU (hash 8090ece9bb461e146d760ef820aec4919a703b5f643ea5997c1d1def51709a8c), this will cause launch time delays
+[08May2025 05:52:39.599] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08May2025 05:52:42.570] [Worker-Main-1/DEBUG] [ModernFix/]: Structure woodlands:features/trees/redwoods/redwood_s_2 is being run through DFU (hash 2ae8e37a72f4aac173ec40f77b39fc304fcd3c160f1ce9b6bc8766efc9ad0f43), this will cause launch time delays
+[08May2025 05:52:42.647] [Worker-Main-3/DEBUG] [ModernFix/]: Structure woodlands:features/trees/redwoods/redwood_2 is being run through DFU (hash f390b6519b3bb2803e273592f9a79c79db256e846db2c150ba1d8f9c16c1b5be), this will cause launch time delays
+[08May2025 05:52:45.092] [Worker-Main-3/DEBUG] [ModernFix/]: Structure woodlands:features/trees/redwoods/redwood_1 is being run through DFU (hash 78f7db0ae95650a37765e616d5a4743a3b1ca4e350b706e965ea15bb79fb74b7), this will cause launch time delays
+[08May2025 05:52:46.715] [Worker-Main-17/DEBUG] [ModernFix/]: Structure woodlands:features/trees/redwoods/redwood_3 is being run through DFU (hash 033c7df69778a737879e9024e44fae423bbf20c5c35d7631347a565f57bf8944), this will cause launch time delays
+[08May2025 05:53:02.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 05:53:02.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 05:55:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [Quaint Scribe]
+[08May2025 05:56:48.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [c51c8089-429b-3bfa-8ec7-f2b11d875efc]
+[08May2025 05:56:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC was laid to rest by Jhonxd592
+[08May2025 05:56:52.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player KRC was created at position [x:601, y:64, z:-217, dim:minecraft:overworld]
+[08May2025 05:56:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Your First Grave]
+[08May2025 05:56:52.287] [Server thread/INFO] [tombstone/]: The player KRC has successfully been saved
+[08May2025 05:57:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has reached the goal [Here They Come]
+[08May2025 05:58:02.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 05:58:02.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 05:59:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Sweet Dreams]
+[08May2025 06:01:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Sweet Dreams]

@@ -370,3 +370,11 @@
 [08May2025 05:47:48.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=363, y=67, z=11} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
 [08May2025 05:47:48.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=363, y=67, z=11}
 [08May2025 05:48:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [This Must be a Sign!]
+[08May2025 05:52:39.599] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08May2025 05:55:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [Quaint Scribe]
+[08May2025 05:56:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC was laid to rest by Jhonxd592
+[08May2025 05:56:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Your First Grave]
+[08May2025 05:56:52.287] [Server thread/INFO] [tombstone/]: The player KRC has successfully been saved
+[08May2025 05:57:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has reached the goal [Here They Come]
+[08May2025 05:59:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Sweet Dreams]
+[08May2025 06:01:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Sweet Dreams]
