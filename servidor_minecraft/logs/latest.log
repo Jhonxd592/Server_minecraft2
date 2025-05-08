@@ -355,3 +355,18 @@
 [08May2025 05:38:39.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC left the game
 [08May2025 05:40:32.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KRC[/127.196.212.183:55699] logged in with entity id 2447 at (2.5, 88.0, -4.5)
 [08May2025 05:40:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC joined the game
+[08May2025 05:42:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Getting an Upgrade]
+[08May2025 05:42:14.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Stone Age]
+[08May2025 05:44:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 hit the ground too hard
+[08May2025 05:44:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Your First Grave]
+[08May2025 05:44:33.088] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[08May2025 05:45:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Monster Hunter]
+[08May2025 05:45:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KRC has made the advancement [Monster Hunter]
+[08May2025 05:45:38.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [A Strange Grave Dust]
+[08May2025 05:47:42.735] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=363, y=67, z=11}
+[08May2025 05:47:46.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
+[08May2025 05:47:46.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 4.020034515253684,-4.176759275064242,-8.29904061460769
+[08May2025 05:47:46.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KRC moved too quickly! 4.79516076651359,1.7508129212553172,-8.789060160720606
+[08May2025 05:47:48.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=363, y=67, z=11} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[08May2025 05:47:48.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=363, y=67, z=11}
+[08May2025 05:48:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [This Must be a Sign!]
