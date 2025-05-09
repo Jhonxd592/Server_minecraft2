@@ -64,7 +64,8 @@
       "grassy_beach": "2025-05-09 04:27:17 +0000",
       "deciduous_forest": "2025-05-09 03:33:02 +0000",
       "grassland": "2025-05-09 03:33:57 +0000",
-      "prairie": "2025-05-09 04:09:29 +0000"
+      "prairie": "2025-05-09 04:09:29 +0000",
+      "redwoods": "2025-05-09 04:48:49 +0000"
     },
     "done": false
   },
@@ -73,7 +74,8 @@
       "grassy_beach": "2025-05-09 04:27:17 +0000",
       "deciduous_forest": "2025-05-09 03:33:02 +0000",
       "grassland": "2025-05-09 03:33:57 +0000",
-      "prairie": "2025-05-09 04:09:29 +0000"
+      "prairie": "2025-05-09 04:09:29 +0000",
+      "redwoods": "2025-05-09 04:48:49 +0000"
     },
     "done": false
   },
@@ -199,6 +201,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-09 04:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-09 04:18:01 +0000"
@@ -229,9 +237,21 @@
     },
     "done": true
   },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-05-09 05:03:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-09 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_enderman_kills_enderman_advancement": {
+    "criteria": {
+      "greater_enderman_kills_enderman_advancement_0": "2025-05-09 05:04:07 +0000"
     },
     "done": true
   },
@@ -243,13 +263,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-05-09 05:04:09 +0000",
       "minecraft:river": "2025-05-09 04:06:26 +0000"
     },
     "done": false
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 05:09:09 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-05-09 04:40:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-09 04:59:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 05:07:00 +0000"
     },
     "done": true
   },

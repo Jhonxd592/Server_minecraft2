@@ -9408,3 +9408,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09May2025 04:45:21.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09May2025 04:45:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Hot Stuff]
 [09May2025 04:47:03.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09May2025 04:50:21.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:50:21.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:53:32.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09May2025 04:55:21.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:55:21.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:56:42.118] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09May2025 04:59:16.614] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[09May2025 04:59:16.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09May2025 04:59:42.410] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[09May2025 04:59:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Magic Writing]
+[09May2025 05:00:21.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 05:00:21.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 05:02:08.162] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09May2025 05:03:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Wait those were just babies??]
+[09May2025 05:04:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Adult Endermite
+[09May2025 05:04:07.564] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:249, y:-44, z:252, dim:minecraft:overworld]
+[09May2025 05:04:07.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [That's not creepy at all....]
+[09May2025 05:04:07.569] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09May2025 05:04:07.622] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09May2025 05:04:07.622] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09May2025 05:04:07.622] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09May2025 05:04:07.623] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09May2025 05:04:07.623] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09May2025 05:05:21.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 05:05:21.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 05:07:00.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Discreet Search]
+[09May2025 05:08:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Adult Endermite
+[09May2025 05:08:18.861] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:252, y:-46, z:260, dim:minecraft:overworld]
+[09May2025 05:08:18.868] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09May2025 05:09:09.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Here They Come]
+[09May2025 05:10:21.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 05:10:21.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
