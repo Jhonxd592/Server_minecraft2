@@ -157,6 +157,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-09 04:07:54 +0000",
+      "cooked_beef": "2025-05-09 04:05:50 +0000",
       "bread": "2025-05-09 03:34:38 +0000"
     },
     "done": false
@@ -169,6 +171,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-09 04:08:48 +0000",
+      "minecraft:witch": "2025-05-09 04:09:27 +0000",
       "minecraft:zombie": "2025-05-09 03:37:09 +0000"
     },
     "done": false
@@ -191,9 +195,27 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-09 04:11:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 04:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-09 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 04:09:27 +0000"
     },
     "done": true
   },

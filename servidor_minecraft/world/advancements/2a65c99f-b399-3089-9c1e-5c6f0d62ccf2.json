@@ -62,14 +62,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "deciduous_forest": "2025-05-09 03:33:02 +0000",
-      "grassland": "2025-05-09 03:33:57 +0000"
+      "grassland": "2025-05-09 03:33:57 +0000",
+      "prairie": "2025-05-09 04:09:29 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "deciduous_forest": "2025-05-09 03:33:02 +0000",
-      "grassland": "2025-05-09 03:33:57 +0000"
+      "grassland": "2025-05-09 03:33:57 +0000",
+      "prairie": "2025-05-09 04:09:29 +0000"
     },
     "done": false
   },
@@ -191,6 +193,18 @@
       "coded_trigger": "2025-05-09 03:50:53 +0000"
     },
     "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-09 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-09 04:06:26 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
