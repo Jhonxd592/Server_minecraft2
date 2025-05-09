@@ -63,7 +63,9 @@
     "criteria": {
       "rocky_reef": "2025-05-09 03:47:09 +0000",
       "grassy_beach": "2025-05-09 03:38:09 +0000",
+      "tropical_river": "2025-05-09 05:44:54 +0000",
       "outback": "2025-05-09 03:53:05 +0000",
+      "joshua_desert": "2025-05-09 05:35:55 +0000",
       "deciduous_forest": "2025-05-09 03:26:38 +0000",
       "chalk_cliffs": "2025-05-09 04:36:21 +0000",
       "saguaro_desert": "2025-05-09 03:46:48 +0000",
@@ -79,7 +81,9 @@
     "criteria": {
       "rocky_reef": "2025-05-09 03:47:09 +0000",
       "grassy_beach": "2025-05-09 03:38:09 +0000",
+      "tropical_river": "2025-05-09 05:44:54 +0000",
       "outback": "2025-05-09 03:53:05 +0000",
+      "joshua_desert": "2025-05-09 05:35:55 +0000",
       "deciduous_forest": "2025-05-09 03:26:38 +0000",
       "chalk_cliffs": "2025-05-09 04:36:21 +0000",
       "saguaro_desert": "2025-05-09 03:46:48 +0000",
@@ -166,7 +170,8 @@
       "cooked_mutton": "2025-05-09 04:07:54 +0000",
       "cooked_beef": "2025-05-09 04:05:50 +0000",
       "tropical_fish": "2025-05-09 05:21:15 +0000",
-      "bread": "2025-05-09 03:34:38 +0000"
+      "bread": "2025-05-09 03:34:38 +0000",
+      "golden_apple": "2025-05-09 05:39:22 +0000"
     },
     "done": false
   },
@@ -178,7 +183,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-09 05:49:23 +0000",
       "minecraft:skeleton": "2025-05-09 04:15:33 +0000",
+      "minecraft:vindicator": "2025-05-09 05:49:31 +0000",
       "minecraft:spider": "2025-05-09 04:08:48 +0000",
       "minecraft:creeper": "2025-05-09 04:47:09 +0000",
       "minecraft:slime": "2025-05-09 05:12:00 +0000",
@@ -220,18 +227,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-09 04:39:11 +0000"
@@ -243,12 +238,6 @@
       "iron_pickaxe": "2025-05-09 04:11:14 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/ambush": {
     "criteria": {
@@ -268,29 +257,17 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
+      "requirement": "2025-05-09 05:50:11 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-09 05:22:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -304,29 +281,23 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
+      "coded_trigger": "2025-05-09 05:39:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
+      "coded_trigger": "2025-05-09 05:39:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
+      "coded_trigger": "2025-05-09 05:39:37 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
@@ -345,18 +316,6 @@
       "coded_trigger": "2025-05-09 04:22:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 05:30:21 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
