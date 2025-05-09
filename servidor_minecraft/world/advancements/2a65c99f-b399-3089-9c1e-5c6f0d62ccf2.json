@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-09 05:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-09 04:06:00 +0000"
@@ -254,6 +260,12 @@
   "mofus_better_end_:greater_enderman_kills_enderman_advancement": {
     "criteria": {
       "greater_enderman_kills_enderman_advancement_0": "2025-05-09 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-09 05:53:22 +0000"
     },
     "done": true
   },
@@ -306,6 +318,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-09 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 05:54:36 +0000"
     },
     "done": true
   },

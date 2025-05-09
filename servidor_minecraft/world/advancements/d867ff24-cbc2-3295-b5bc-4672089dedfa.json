@@ -192,6 +192,7 @@
       "minecraft:witch": "2025-05-09 04:09:27 +0000",
       "minecraft:cave_spider": "2025-05-09 04:33:18 +0000",
       "minecraft:enderman": "2025-05-09 04:38:26 +0000",
+      "minecraft:vex": "2025-05-09 05:57:24 +0000",
       "minecraft:zombie": "2025-05-09 03:37:09 +0000",
       "minecraft:zombie_villager": "2025-05-09 04:48:09 +0000"
     },
@@ -269,9 +270,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 05:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-09 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-09 05:57:41 +0000"
     },
     "done": true
   },
@@ -290,6 +303,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-09 05:39:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 05:59:09 +0000"
     },
     "done": true
   },
