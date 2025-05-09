@@ -126,6 +126,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-09 03:41:57 +0000",
+      "minecraft:spider": "2025-05-09 04:19:36 +0000",
+      "minecraft:creeper": "2025-05-09 04:25:20 +0000",
       "minecraft:cave_spider": "2025-05-09 03:50:20 +0000",
       "minecraft:zombie": "2025-05-09 03:38:38 +0000"
     },
@@ -194,6 +196,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-09 04:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-09 04:06:00 +0000"
@@ -205,6 +213,12 @@
       "minecraft:river": "2025-05-09 04:06:26 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-09 04:20:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

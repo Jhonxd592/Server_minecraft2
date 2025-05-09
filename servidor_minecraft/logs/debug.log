@@ -9359,3 +9359,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09May2025 04:15:21.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09May2025 04:18:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Hot Stuff]
 [09May2025 04:19:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Suit Up]
+[09May2025 04:20:21.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:20:21.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:20:47.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Diamonds!]
+[09May2025 04:21:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Zombie
+[09May2025 04:21:56.469] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_09.05.2025-04.21.56.dat
+[09May2025 04:21:56.476] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:314, y:16, z:996, dim:minecraft:overworld]
+[09May2025 04:21:56.492] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[09May2025 04:21:56.599] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09May2025 04:21:56.599] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09May2025 04:21:56.600] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09May2025 04:21:56.600] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09May2025 04:21:56.600] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09May2025 04:22:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Ashes 'n Bones]
+[09May2025 04:25:21.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:25:21.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

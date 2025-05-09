@@ -171,6 +171,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-09 04:15:33 +0000",
       "minecraft:spider": "2025-05-09 04:08:48 +0000",
       "minecraft:witch": "2025-05-09 04:09:27 +0000",
       "minecraft:zombie": "2025-05-09 03:37:09 +0000"
@@ -195,6 +196,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-09 04:19:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-09 04:11:14 +0000"
@@ -216,6 +223,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-09 04:09:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 04:22:42 +0000"
     },
     "done": true
   },
