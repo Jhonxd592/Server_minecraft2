@@ -9374,3 +9374,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09May2025 04:22:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Ashes 'n Bones]
 [09May2025 04:25:21.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09May2025 04:25:21.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:30:21.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:30:21.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:30:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was shot by Skeleton
+[09May2025 04:30:22.974] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.fox_09.05.2025-04.30.22.dat
+[09May2025 04:30:22.975] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:146, y:-53, z:151, dim:minecraft:overworld]
+[09May2025 04:30:22.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Your First Grave]
+[09May2025 04:30:22.980] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09May2025 04:34:26.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[09May2025 04:34:26.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[09May2025 04:34:26.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[09May2025 04:34:26.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[09May2025 04:34:26.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[09May2025 04:34:26.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[09May2025 04:34:26.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[09May2025 04:34:26.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[09May2025 04:34:26.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[09May2025 04:35:21.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:35:21.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:36:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Bone Crusher]
+[09May2025 04:37:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Diamonds!]
+[09May2025 04:37:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Zombie
+[09May2025 04:37:26.212] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_09.05.2025-04.37.26.dat
+[09May2025 04:37:26.214] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:342, y:-31, z:867, dim:minecraft:overworld]
+[09May2025 04:37:26.224] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[09May2025 04:38:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Ambush]
+[09May2025 04:39:11.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Not Today, Thank You]

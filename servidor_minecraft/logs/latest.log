@@ -347,3 +347,14 @@
 [09May2025 04:21:56.600] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [09May2025 04:21:56.600] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [09May2025 04:22:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Ashes 'n Bones]
+[09May2025 04:30:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was shot by Skeleton
+[09May2025 04:30:22.974] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.fox_09.05.2025-04.30.22.dat
+[09May2025 04:30:22.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Your First Grave]
+[09May2025 04:30:22.980] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09May2025 04:36:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Bone Crusher]
+[09May2025 04:37:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Diamonds!]
+[09May2025 04:37:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Zombie
+[09May2025 04:37:26.212] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_09.05.2025-04.37.26.dat
+[09May2025 04:37:26.224] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[09May2025 04:38:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Ambush]
+[09May2025 04:39:11.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Not Today, Thank You]
