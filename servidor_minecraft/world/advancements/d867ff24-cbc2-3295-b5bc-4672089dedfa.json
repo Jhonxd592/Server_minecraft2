@@ -65,6 +65,7 @@
       "grassy_beach": "2025-05-09 03:38:09 +0000",
       "outback": "2025-05-09 03:53:05 +0000",
       "deciduous_forest": "2025-05-09 03:26:38 +0000",
+      "chalk_cliffs": "2025-05-09 04:36:21 +0000",
       "saguaro_desert": "2025-05-09 03:46:48 +0000",
       "baobab_savanna": "2025-05-09 03:46:43 +0000",
       "grassland": "2025-05-09 03:36:18 +0000",
@@ -80,6 +81,7 @@
       "grassy_beach": "2025-05-09 03:38:09 +0000",
       "outback": "2025-05-09 03:53:05 +0000",
       "deciduous_forest": "2025-05-09 03:26:38 +0000",
+      "chalk_cliffs": "2025-05-09 04:36:21 +0000",
       "saguaro_desert": "2025-05-09 03:46:48 +0000",
       "baobab_savanna": "2025-05-09 03:46:43 +0000",
       "grassland": "2025-05-09 03:36:18 +0000",
@@ -159,6 +161,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-09 04:35:31 +0000",
       "cooked_mutton": "2025-05-09 04:07:54 +0000",
       "cooked_beef": "2025-05-09 04:05:50 +0000",
       "bread": "2025-05-09 03:34:38 +0000"
@@ -177,6 +180,7 @@
       "minecraft:spider": "2025-05-09 04:08:48 +0000",
       "minecraft:witch": "2025-05-09 04:09:27 +0000",
       "minecraft:cave_spider": "2025-05-09 04:33:18 +0000",
+      "minecraft:enderman": "2025-05-09 04:38:26 +0000",
       "minecraft:zombie": "2025-05-09 03:37:09 +0000"
     },
     "done": false
@@ -205,11 +209,35 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-09 04:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-09 04:11:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/ambush": {
     "criteria": {
@@ -217,15 +245,63 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-09 04:01:49 +0000"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-09 04:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-09 04:37:01 +0000"
     },
     "done": true
   },
@@ -234,6 +310,18 @@
       "coded_trigger": "2025-05-09 04:22:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-09 04:45:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
